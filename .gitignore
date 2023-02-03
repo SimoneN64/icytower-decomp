@@ -1,0 +1,6 @@
+.vscode/
+.cache/
+.idea/
+out/
+*.sh
+*.json
